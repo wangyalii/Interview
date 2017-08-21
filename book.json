@@ -1,0 +1,15 @@
+{
+    "language": "zh-hans",
+    "links": {
+        "sidebar": {
+            "易面首页": "https://ezinterview.org/"
+        }
+    },
+    "plugins": [
+    	"splitter"
+      ,
+      "simple-page-toc"
+      ,
+      "expandable-chapters-small"
+  ]
+} 
