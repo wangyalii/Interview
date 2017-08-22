@@ -7,7 +7,9 @@
 * [项目](docs/project.md)
     * [创建项目](docs/project2.md)
     * [候选人名单](docs/project3.md)
-
-## 面试官打分系统
+    * [候选组管理](docs/project4.md)
+    * [监控统计](docs/project5.md)
+* [评分表](docs/form.md)
+* [面试官](docs/Interviewer.md)
 * [入门](docs/basic.md)
 
