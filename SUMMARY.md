@@ -15,3 +15,6 @@
 ## 面试官打分系统
 * [入门](docs/basic.md)
 
+## QQ咨询
+* [易面QQ咨询](docs/qq.md)
+
