@@ -5,3 +5,5 @@
 # 易面交流群 #
 
 [![PNG](image/group.png)](http://shang.qq.com/wpa/qunwpa?idkey=68e0ffb43db489890b5fd8c14374dee79bbc613c8897b4e37ced319903be6025)
+
+![PNG](image/qqqun.png)

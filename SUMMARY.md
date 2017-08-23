@@ -13,7 +13,10 @@
 * [面试官](docs/Interviewer.md)
 
 ## 面试官打分系统
-* [入门](docs/basic.md)
+* [入门](docs/basic1.md)
+
+## 版本发布
+* [版本更新](docs/releasenote.md)
 
 ## QQ咨询
 * [易面QQ咨询](docs/qq.md)
