@@ -14,6 +14,7 @@
 
 ## 面试官打分系统
 * [入门](docs/basic1.md)
+* [我的面试](docs/myinterview.md)
 
 ## 版本发布
 * [版本更新](docs/releasenote.md)
