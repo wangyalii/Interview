@@ -2,7 +2,7 @@
 
 * [易面](README.md)
 
-## 面试管理后台
+## 面试管理系统
 * [入门](docs/basic.md)
 * [项目](docs/project.md)
     * [创建项目](docs/project2.md)
@@ -12,7 +12,7 @@
 * [评分表](docs/form.md)
 * [面试官](docs/Interviewer.md)
 
-## 面试官打分系统
+## 面试官评系统
 * [入门](docs/basic1.md)
 * [我的面试](docs/myinterview.md)
 
