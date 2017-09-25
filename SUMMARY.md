@@ -12,7 +12,7 @@
 * [评分表](docs/form.md)
 * [面试官](docs/Interviewer.md)
 
-## 面试官评系统
+## 面试官评分系统
 * [入门](docs/basic1.md)
 * [我的面试](docs/myinterview.md)
 
