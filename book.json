@@ -2,7 +2,7 @@
     "language": "zh-hans",
     "links": {
         "sidebar": {
-            "易面首页": "ezinterview.org"
+            "易面首页": "http://ezinterview.org/"
         }
     },
     "plugins": [
