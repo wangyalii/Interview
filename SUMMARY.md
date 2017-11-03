@@ -11,6 +11,7 @@
     * [监控统计](docs/project5.md)
 * [评分表](docs/form.md)
 * [面试官](docs/Interviewer.md)
+* [总控中心](docs/Console.md)
 
 ## 面试官评分系统
 * [入门](docs/basic1.md)
