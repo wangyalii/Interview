@@ -5,8 +5,10 @@
 ## 面试管理系统
 * [入门](docs/basic.md)
 * [项目](docs/project.md)
-    * [创建项目](docs/project2.md)
+    * [创建日程](docs/project2.md)
+    * [日程配置](docs/project2-1.md)
     * [候选人名单](docs/project3.md)
+    * [签到管理](docs/project2-2.md)
     * [候选组管理](docs/project4.md)
     * [监控统计](docs/project5.md)
 * [评分表](docs/form.md)
